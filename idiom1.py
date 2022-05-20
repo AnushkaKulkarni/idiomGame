@@ -24,10 +24,10 @@ if answer.lower().strip() == "yes":
     if answer == "milk":
         answer = input("you drop your glass and feel a tear welling up. what do you do? (let it out/suppress it) ").lower().strip()
         if answer == "let it out":
-          print("don't cry over spilt milk!")
+          print("don't cry over spilled milk!")
           score = score - 10
         elif answer == "supress it":
-          print("you didn't cry over spilt milk. you're safe.")
+          print("you didn't cry over spilled milk. you're safe.")
     elif answer == "apple":
       print("great choice! an apple a day keeps the doctor away.")
       score = score + 10
