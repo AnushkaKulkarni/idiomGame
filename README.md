@@ -1,2 +1,2 @@
 # idiom-game
-This quick choose your own adventure Idiom Game allows users to spend an idiomatic weekend with fun decisions. 
+This quick choose your own adventure game allows users to spend a lazy afternoon making idiomatic decisions.
